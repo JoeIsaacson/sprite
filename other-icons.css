@@ -1,0 +1,154 @@
+.icon-other-facebook,
+.icon-other-pinterest,
+.icon-other-houzz,
+.icon-other-google-plus,
+.icon-other-twitter,
+.icon-other-print,
+.icon-other-email,
+.icon-other-heart-full-regular,
+.icon-other-heart-full-hover,
+.icon-other-heart-full-saved,
+.icon-other-exclusive,
+.icon-other-cart-large-white,
+.icon-other-phone,
+.icon-other-magnify-black,
+.icon-other-magnify-white,
+.icon-other-thumbnail-arrow-left,
+.icon-other-thumbnail-arrow-right,
+.icon-other-slide-left,
+.icon-other-slide-right,
+.icon-other-magnify-small-grey, 
+.icon-other-magnify-small-black {
+	background: url(other-icons.png) no-repeat;
+}
+
+.icon-other-facebook {
+	background-position: 0px 0px;
+	width: 32px;
+	height: 32px;
+}
+
+.icon-other-pinterest {
+	background-position: 0 -40px;
+	width: 32px;
+	height: 32px;
+}
+
+.icon-other-houzz {
+	background-position: 0 -80px;
+	width: 32px;
+	height: 32px;
+}
+
+.icon-other-google-plus {
+	background-position: 0 -120px;
+	width: 32px;
+	height: 32px;
+}
+
+.icon-other-twitter {
+	background-position: 0 -160px;
+	width: 32px;
+	height: 32px;
+}
+
+.icon-other-print {
+	background-position: -40px 0px;
+	width: 32px;
+	height: 32px;
+} 
+
+.icon-other-email {
+	background-position: -40px -40px;
+	width: 32px;
+	height: 32px;
+} 
+
+.icon-other-heart-full-regular {
+	background-position: -40px -80px;
+	width: 32px;
+	height: 32px;
+}
+
+.icon-other-heart-full-hover  {
+	background-position: -40px -120px;
+	width: 32px;
+	height: 32px;
+}
+
+.icon-other-heart-full-saved  {
+	background-position: -40px -160px;
+	width: 32px;
+	height: 32px;
+}
+
+
+.icon-other-exclusive {
+	background-position: -80px 0px;
+	width: 79px;
+	height: 26px;
+}
+
+.icon-other-cart-large-white {
+	background-position: -80px -32px;
+	width: 34px;
+	height: 22px;
+}
+
+.icon-other-phone {
+	background-position: -80px -65px;
+	width: 13px;
+	height: 27px;
+}
+
+.icon-other-magnify-black {
+	background-position: -80px -97px;
+	width: 23px;
+	height: 23px;
+}
+
+.icon-other-magnify-white {
+	background-position: -80px -126px;
+	width: 23px;
+	height: 23px;
+}
+
+.icon-other-thumbnail-arrow-left {
+	background-position: -80px -160px;
+	width: 15px;
+	height: 29px;
+}
+
+.icon-other-thumbnail-arrow-right {
+	background-position: -100px -160px;
+	width: 15px;
+	height: 29px;
+}
+
+.icon-other-slide-left {
+	background-position: -128px -96px;
+	width: 30px;
+	height: 102px;
+}	
+
+.icon-other-slide-right {
+	background-position: -159px -96px;
+	width: 30px;
+	height: 102px;
+}
+
+.icon-other-magnify-small-grey {
+	background-position: -168px 0px;
+	width: 27px;
+	height: 27px;
+}
+
+.icon-other-magnify-small-black {
+	background-position: -168px -32px;
+	width: 27px;
+	height: 27px;
+}
+
+
+
+

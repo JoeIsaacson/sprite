@@ -1,0 +1,272 @@
+.icon-large-reverse-arrows,
+.icon-large-arrow-right-light,
+.icon-large-arrow-right-med, 
+.icon-large-arrow-right-dark,
+.icon-large-arrow-right-orange,
+.icon-large-arrow-right-solo, 
+.icon-large-close-x-light,
+.icon-large-close-x-dark,
+.icon-large-close-x-orange,
+.icon-large-close-x-green,
+.icon-large-cart-add,
+.icon-large-question-mark,
+.icon-large-chat,
+.icon-large-recommend-check,
+.icon-large-calculator,
+.icon-large-email-light,
+.icon-large-email-med,
+.icon-large-email-dark,
+.icon-large-email-solo,
+.icon-large-plus-light,
+.icon-large-plus-med,
+.icon-large-plus-dark,
+.icon-large-plus-solo,
+.icon-large-plus-solo-dark,
+.icon-large-minus-orange,
+.icon-large-minus-med,
+.icon-large-minus-dark,
+.icon-large-page-arrow-left-white,
+.icon-large-page-arrow-right-white,
+.icon-large-page-arrow-down,  
+.icon-large-page-arrow-right,
+.icon-large-login-saved,
+.icon-large-login-profile,
+.icon-large-heart-not-saved,
+.icon-large-heart-saved,
+.icon-large-heart-full-regular,
+.icon-large-heart-full-hover,
+.icon-large-heart-full-saved
+
+{
+	background: url(large-icons.png) no-repeat;
+}
+
+.icon-large-reverse-arrows {
+	background-position: 0px 0px;
+	width: 20px;
+	height: 20px;
+}
+
+.icon-large-arrow-right-light {
+	background-position: 0px -30px;
+	width: 20px;
+	height: 20px;
+}
+
+.icon-large-arrow-right-med {
+	background-position: 0 -60px;
+	width: 20px;
+	height: 20px;
+}
+
+.icon-large-arrow-right-dark {
+	background-position: 0 -90;
+	width: 20px;
+	height: 20px;
+}
+.icon-large-arrow-right-orange {
+	background-position: 0 -120;
+	width: 20px;
+	height: 20px;
+}
+
+.icon-large-arrow-right-solo {
+	background-position: 0 -150;
+	width: 20px;
+	height: 20px;
+} 
+.icon-large-close-x-light  {
+	background-position: -30 0;
+	width: 20px;
+	height: 20px;
+}
+
+.icon-large-close-x-dark  {
+	background-position: -30 -30;
+	width: 20px;
+	height: 20px;
+}
+
+.icon-large-close-x-orange  {
+	background-position: -30 -60;
+	width: 20px;
+	height: 20px;
+}
+
+.icon-large-close-x-green  {
+	background-position: -30 -90;
+	width: 20px;
+	height: 20px;
+}
+
+.icon-large-cart-add  {
+	background-position: -60 0;
+	width: 20px;
+	height: 20px;
+}
+
+.icon-large-question-mark  {
+	background-position: -60 -30;
+	width: 20px;
+	height: 20px;
+}
+
+.icon-large-chat  {
+	background-position: -60 -60;
+	width: 20px;
+	height: 20px;
+}
+
+.icon-large-login-saved  {
+	background-position: -60 -90;
+	width: 20px;
+	height: 20px;
+}
+
+.icon-large-login-profile  {
+	background-position: -60 -120;
+	width: 20px;
+	height: 20px;
+}
+
+.icon-large-recommend-check  {
+	background-position: -60 -150;
+	width: 20px;
+	height: 20px;
+}
+
+.icon-large-calculator  {
+	background-position: -60 -180;
+	width: 20px;
+	height: 20px;
+}
+
+.icon-large-email-light {
+	background-position: -90 0;
+	width: 20px;
+	height: 20px;
+}
+
+.icon-large-email-med {
+	background-position: -90 -30;
+	width: 20px;
+	height: 20px;
+}
+
+.icon-large-email-dark {
+	background-position: -90 -60;
+	width: 20px;
+	height: 20px;
+}
+
+.icon-large-email-solo {
+	background-position: -90 -90;
+	width: 20px;
+	height: 20px;
+}
+
+.icon-large-plus-light {
+	background-position: -120 0;
+	width: 20px;
+	height: 20px;
+}
+
+.icon-large-plus-med {
+	background-position: -120 -30;
+	width: 20px;
+	height: 20px;
+}
+
+.icon-large-plus-dark {
+	background-position: -120 -60;
+	width: 20px;
+	height: 20px;
+}
+
+.icon-large-plus-solo {
+	background-position: -120 -90;
+	width: 20px;
+	height: 20px;
+}
+
+.icon-large-plus-solo-dark {
+	background-position: -120 -120;
+	width: 20px;
+	height: 20px;
+}
+
+.icon-large-minus-orange {
+	background-position: -150 0;
+	width: 20px;
+	height: 20px;
+}
+
+.icon-large-minus-med {
+	background-position: -150 -30;
+	width: 20px;
+	height: 20px;
+}
+
+.icon-large-minus-dark {
+	background-position: -150 -60;
+	width: 20px;
+	height: 20px;
+}
+
+.icon-large-page-arrow-left-white {
+	background-position: -150 -90;
+	width: 20px;
+	height: 20px;
+}
+
+.icon-large-page-arrow-right-white {
+	background-position: -150 -120;
+	width: 20px;
+	height: 20px;
+}
+
+.icon-large-page-arrow-down {
+	background-position: -150 -150;
+	width: 20px;
+	height: 20px;
+}
+
+.icon-large-page-arrow-right {
+	background-position: -150 -180;
+	width: 20px;
+	height: 20px;
+}
+
+.icon-large-heart-not-saved {
+	background-position: -180 -0;
+	width: 20px;
+	height: 20px;
+}
+
+.icon-large-heart-saved {
+	background-position: -180 -30;
+	width: 20px;
+	height: 20px;
+}
+
+.icon-large-heart-full-regular {
+	background-position: -180 -60;
+	width: 20px;
+	height: 20px;
+}
+
+.icon-large-heart-full-hover  {
+	background-position: -180 -90;
+	width: 20px;
+	height: 20px;
+}
+
+.icon-large-heart-full-saved  {
+	background-position: -180 -120;
+	width: 20px;
+	height: 20px;
+}
+
+
+
+
